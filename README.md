@@ -2,6 +2,12 @@
 Interactive Power BI dashboard analyzing suicide attacks in Pakistan, including sect-wise targeting, provincial distribution, and holiday-related attack patterns.
 # Pakistan Suicide Attacks Analysis Dashboard
 
+# Pakistan Suicide Attacks Analysis Dashboard
+
+## Dashboard Preview
+
+![Dashboard](dashboard-image.png)
+
 ## Project Overview
 
 This Power BI dashboard provides an analytical overview of suicide attacks in Pakistan. The project explores attack patterns, targeted sects, provincial distribution, and the relationship between attacks and different holiday types.
@@ -50,4 +56,4 @@ This Power BI dashboard provides an analytical overview of suicide attacks in Pa
 
 * Pakistan Suicide Attacks Dashboard.pbix
 * Dataset.xlsx
-* Dashboard Screenshot.png
+* Dashboard-image.png
