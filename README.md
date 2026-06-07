@@ -56,3 +56,12 @@ This Power BI dashboard provides an analytical overview of suicide attacks in Pa
 * Pakistan Suicide Attacks Dashboard.pbix
 * Dataset.xlsx
 * Dashboard-image.png
+
+* ## Data Source
+
+This project uses a publicly available dataset obtained from Kaggle.
+
+Dataset: Pakistan Suicide Bombing Attacks
+
+Source:
+https://www.kaggle.com/datasets/zusmani/pakistansuicideattacks/discussion/39596
